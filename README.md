@@ -1,0 +1,2 @@
+# forgeai
+content-generator
